@@ -1,0 +1,59 @@
+
+h2 {
+	font-size: 50px;
+	color: red;
+}
+p{
+	font-size: 30px;
+	color: black;
+}
+.class1 {
+    
+}
+
+
+nav {
+	width: 100vw;
+	height: 5vh;
+	margin-top: 5vh;
+    display: flex;
+
+
+}
+
+
+.logo {
+	font-size: 25px;
+	cursor: pointer;
+	margin-left: 5vw;
+	color: black;
+
+}
+
+.logo:hover {
+	color: wheatfont-size: 25px;
+	transition: 1s;
+
+}
+
+ul {
+	width: 55vw;
+	height: 5vh;
+	text-align: center;
+	margin-left: 35vh;
+}
+ul li {
+	display: inline-block;
+	cursor: pointer;
+	font-size: 25px;
+	margin-left: 2vw;
+	margin-right: 2vw;
+	color: seachell; 
+}
+ul li:hover {
+	color: wheatfont-size: 25px;
+	transition: 1s;
+	border-bottom: solid 1px white;
+}
+
+
