@@ -57,3 +57,8 @@ ul li:hover {
 }
 
 
+body{
+	background: url(image1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
